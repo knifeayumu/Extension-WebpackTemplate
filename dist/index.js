@@ -1,1 +1,1 @@
-(()=>{"use strict";const{Popup:t}=SillyTavern.getContext();t.show.text("Hello, world!")})();
+(()=>{"use strict";const{Popup:t}=globalThis.SillyTavern.getContext();t.show.text("Hello, world!")})();
