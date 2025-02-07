@@ -1,5 +1,3 @@
 export {};
 
-declare global {
-    var SillyTavern: any;
-}
+// Add global type declarations here
